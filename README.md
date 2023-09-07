@@ -6,13 +6,12 @@ I've successfully scaled startups by implementing data-driven strategies. I'm lo
 
 ## 💬 Let's Connect
 
-Feel free to reach out to me if you want to collaborate, have questions, or just want to chat. You can find me on:
+Feel free to reach out if you want to collaborate, have questions, or just want to chat. You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/pablobugueno/)
 - [Instagram](https://www.instagram.com/minombreespablo/)
 
-## ⚡ Fun Fact
+## ⚡ Fun Facts
 
-I have a [YouTube channel](https://www.minombreespablo.com) (in spanish) about life in Japan and Pokémon Stuff.
-
-I *really* like technology, in fact I have an RFID implant on my right hand 🤖.
+- I have a [YouTube channel](https://www.minombreespablo.com) (in spanish) about life in Japan and Pokémon Stuff.
+- I *really* like technology, in fact I have an RFID implant on my right hand 🤖.
