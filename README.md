@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey, I'm Pablo 👋
+Welcome to my GitHub profile!
 
-<!--
-**MiNombreEsPablo/MiNombreEsPablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer from Chile 🇨🇱 based in Japan 🇯🇵, with expertise in strategic project management and web development.\
+I've successfully scaled startups by implementing data-driven strategies. I'm looking to put my business and technical skills to use as a full stack developer.
 
-Here are some ideas to get you started:
+## 💬 Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me if you want to collaborate, have questions, or just want to chat. You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/pablobugueno/)
+- [Instagram](https://www.instagram.com/minombreespablo/)
+
+## ⚡ Fun Fact
+
+I have a [YouTube channel](https://www.minombreespablo.com) (in spanish) about life in Japan and Pokémon Stuff
+
+I *really* like technology, in fact I have an RFID implant on my right hand
