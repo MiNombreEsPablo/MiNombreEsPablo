@@ -13,6 +13,6 @@ Feel free to reach out to me if you want to collaborate, have questions, or just
 
 ## ⚡ Fun Fact
 
-I have a [YouTube channel](https://www.minombreespablo.com) (in spanish) about life in Japan and Pokémon Stuff
+I have a [YouTube channel](https://www.minombreespablo.com) (in spanish) about life in Japan and Pokémon Stuff.
 
-I *really* like technology, in fact I have an RFID implant on my right hand
+I *really* like technology, in fact I have an RFID implant on my right hand 🤖.
