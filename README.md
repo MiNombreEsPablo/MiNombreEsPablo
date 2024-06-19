@@ -1,7 +1,7 @@
 # Hey, I'm Pablo 👋
 Welcome to my GitHub profile!
 
-I'm a full stack developer from Chile 🇨🇱 based in Japan 🇯🇵, with expertise in strategic project management and web development.\
+I'm a full stack developer, with expertise in strategic project management and web development.
 I've successfully scaled startups by implementing data-driven strategies. I'm looking to put my business and technical skills to use as a full stack developer.
 
 ## 💬 Let's Connect
